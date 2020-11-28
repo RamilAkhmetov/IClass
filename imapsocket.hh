@@ -1,0 +1,4 @@
+#ifndef IMAPSOCKET_HH
+#define IMAPSOCKET_HH
+
+#endif // IMAPSOCKET_HH
