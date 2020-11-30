@@ -1,5 +1,5 @@
 #include "mainwindow.hh"
-
+#include "imapsocket.hh"
 #include <QApplication>
 
 int main(int argc, char *argv[])
